@@ -1,0 +1,12 @@
+# Graph Engine Test Script
+# Run with: ./graph_engine < test_script.txt
+
+# Build a sample graph and run algorithms
+5
+9
+1
+6
+0
+1
+0
+0
